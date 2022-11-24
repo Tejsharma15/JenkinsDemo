@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import unittest
 from program import odd
 class TestCase(unittest.TestCase):
