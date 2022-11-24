@@ -8,3 +8,5 @@ class TestCase(unittest.TestCase):
         self.assertEqual(odd(5), 1)
     def testcase3(self):
         self.assertEqual(odd(87), 1)
+if __name__ == '__main__':
+    unittest.main()
