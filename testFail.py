@@ -8,3 +8,6 @@ class TestCase(unittest.TestCase):
         self.assertEqual(prog(6), 1)
     def testcase3(self):
         self.assertEqual(prog(86), 1)
+
+if __name__ == '__main__':
+    unittest.main()
