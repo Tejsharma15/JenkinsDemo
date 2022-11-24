@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import unittest
 from program import prog
 class TestCase(unittest.TestCase):
